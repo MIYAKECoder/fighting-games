@@ -7,7 +7,7 @@ class Enemy extends Component {
 
     return (
       <div className="Enemy">
-        <h2>Enemy</h2>
+        <h2>Enemy Test Take3</h2>
         <p>Health: {health}</p>
         {/* Add more enemy details or controls here */}
       </div>
